@@ -1,0 +1,17 @@
+.rect{
+    background-color: black;
+    width: 10px;
+    height: 4px;
+    border-radius: 2px;
+}
+
+.spinner{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.spinner-text{
+    font-size: 16px;
+    font-family: monospace;
+}
